@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">drawingAppKotlin</string>
+    <string name="color_pallet">color_pallet</string>
+</resources>
